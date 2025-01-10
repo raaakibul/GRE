@@ -1,1 +1,1 @@
-This repository consist all the essential GRE materials.
+This repository consists of all the essential GRE materials.
